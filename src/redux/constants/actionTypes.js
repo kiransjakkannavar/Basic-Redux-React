@@ -1,0 +1,7 @@
+export const ADD_EMAIL = 'ADD_EMAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const ADD_PASSWORD = 'ADD_PASSWORD';
+
+
+export const FETCH_EMPLOYEES = 'FETCH_EMPLOYEES'
